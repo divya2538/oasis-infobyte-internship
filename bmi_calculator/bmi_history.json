@@ -1,0 +1,65 @@
+[
+    {
+        "name": "test user",
+        "weight": 60.0,
+        "height": 153.0,
+        "bmi": 0.0,
+        "category": "Underweight"
+    },
+    {
+        "name": "test user",
+        "weight": 60.0,
+        "height": 163.0,
+        "bmi": 0.0,
+        "category": "Underweight"
+    },
+    {
+        "name": "test user",
+        "weight": 60.0,
+        "height": 163.0,
+        "bmi": 0.0,
+        "category": "Underweight"
+    },
+    {
+        "name": "test user",
+        "weight": 80.0,
+        "height": 163.0,
+        "bmi": 0.0,
+        "category": "Underweight"
+    },
+    {
+        "name": "test user",
+        "weight": 60.0,
+        "height": 1.63,
+        "bmi": 22.58,
+        "category": "Normal"
+    },
+    {
+        "name": "test user",
+        "weight": 70.0,
+        "height": 1.5,
+        "bmi": 31.11,
+        "category": "Obese \ud83d\ude1f"
+    },
+    {
+        "name": "div",
+        "weight": 50.0,
+        "height": 163.0,
+        "bmi": 0.0,
+        "category": "UNDERWEIGHT"
+    },
+    {
+        "name": "div",
+        "weight": 70.0,
+        "height": 163.0,
+        "bmi": 0.0,
+        "category": "UNDERWEIGHT"
+    },
+    {
+        "name": "div",
+        "weight": 60.0,
+        "height": 1.63,
+        "bmi": 22.58,
+        "category": "\ud83d\udc9a Normal"
+    }
+]
